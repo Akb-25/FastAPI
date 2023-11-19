@@ -1,0 +1,40 @@
+/* CSS styles for the Calculate Square page */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #0074d9;
+    padding: 20px 0;
+}
+
+form {
+    margin: 20px;
+}
+
+label {
+    font-size: 18px;
+}
+
+input[type="number"] {
+    padding: 10px;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    background-color: #0074d9;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 20px;
+}
